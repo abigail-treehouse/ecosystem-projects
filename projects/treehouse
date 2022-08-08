@@ -1,0 +1,19 @@
+{
+  "name": "Treehouse",
+  "slug": "treehouse-analytics",
+  "date": "2022-06-26",
+  "highlight": "Cross chain DeFi portfolio tracker with P&L and risk metrics.",
+  "logo": "https://storage.googleapis.com/thf/static/img/treehouse-logo.png",
+  "tags": ["portfolio","defi","multi-chain"],
+  "status": "live",
+  "website": "https://harvest.treehouse.finance/connect",
+  "twitter": "https://twitter.com/TreehouseFi",
+  "summary": "The most comprehensive DeFi portfolio analytics platform available, deconstructing users’ positions to analyze risk, historical data, and profit & loss. Support for Avalanche, Ethereum and BNB Chain.",
+  "telegram": "https://t.me/treehouseinsights",
+  "discord": "https://discord.com/invite/MtRzKakPT3",
+  "docs":"https://www.treehouse.finance/docs/intro",
+  "github":"",
+  "token":"",
+  "cmc":""
+  
+}
